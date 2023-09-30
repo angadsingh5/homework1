@@ -7,3 +7,9 @@ as if you had orginally created the branch from the other commit that you
 are rebasing too. This then would not preserve the whole history as merge
 does but instead create a linear effect where the new branch is attached to 
 the main branch and moving forward from there.
+
+What is a remote repository?
+
+A remote repository is the version of your project that is on
+a server that everybody can access as opposed to a local respository
+which is just a version that is accesible to me on my device.
